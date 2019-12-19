@@ -61,6 +61,8 @@ def newton():
     print(x)
     print(fun(x))
 
+#hi everyone
+#why here
 #print(grad([10, 5]))
 #print(hessian([10, 5]))
 newton()
