@@ -63,6 +63,7 @@ def newton():
 
 #hi everyone
 #why here
+#secondrel
 #print(grad([10, 5]))
 #print(hessian([10, 5]))
 newton()
